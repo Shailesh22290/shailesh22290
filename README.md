@@ -44,7 +44,8 @@ I'm passionate about transforming complex data into impactful solutions. With **
 <div align="center">
 
 ![Shailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailesh22290&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=shailesh22290&theme=radical)  
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh22290&layout=compact&theme=radical)  
 
 
