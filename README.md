@@ -1,45 +1,61 @@
-# 👋 Hi there, I'm Shailesh Kachhi
+### Hi there 👋 I'm Shailesh Kachhi  
 
-**🚀 Data Science & Engineering Student | 🤖 ML Researcher | 💻 Full-Stack Developer**
+🚀 **Data Science Research Student | 🔬 Full Stack Developer | 🎓 BS Data Science @ IISER Bhopal**  
 
-🎓 **BS in Data Science & Engineering** 📍 Indian Institute of Science Education & Research, Bhopal  
-🔬 Passionate about building ML pipelines, conducting AI research, and creating data-driven solutions
-
-I specialize in transforming complex data challenges into practical working solutions. With over 2 years of hands-on experience in machine learning, computer vision, and full-stack development, I love building complete end-to-end systems that make a real impact.
-
-📍 **Based in:** Bhopal, Madhya Pradesh, India  
-💼 **Portfolio:** [shailesh22290.github.io](https://shailesh22290.github.io)  
-📧 **Email:** shailesh22@iiserb.ac.in / shaileshkachhi786@gmail.com
-💬 **LinkedIn:** [linkedin.com/in/shailesh-kachhi](https://www.linkedin.com/in/shailesh-kachhi-681a041a2/)  
+I'm passionate about transforming complex data into impactful solutions. With **2+ years of experience** in ML, AI research, and full-stack development, I specialize in **climate AI, computer vision, and urban analytics**.  
 
 
-## 🔭 Currently Working on
-
-* 🌦️ **Automated Ensemble Optimization for Climate Prediction** - Developing ML-based methods to optimize computational resources for monsoon forecasting at IIT Delhi's DST Centre of Excellence
-* 🏙️ **VR-based Urban Safety Perception Study** - Building an integrated VR-biometrics-NLP framework with LSTM models to predict threat perception from 360° urban environments for enhanced public safety planning
-* 📊 **Ad Campaign CTR Prediction Pipeline** - Creating interpretable ML models with SHAP analysis for data-driven campaign optimization and ROI improvement
-
-
-## 💼 Technical Skills
-
-**Languages:** Python, JavaScript, SQL, PHP  
-**ML/AI Stack:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy  
-**Web Development:** React.js, Node.js, REST APIs, Drupal  
-**Tools & Platforms:** Docker, Power BI, Firebase, Supabase, Google Colab  
-**Visualization:** Matplotlib, Seaborn, Power BI dashboards
-
-
-
-## 📈 GitHub Stats
-
-![Shailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-
+## 🔭 Current Research & Work
+- 🌦️ **Ensemble Optimization for Climate Prediction** – Developed stopping-point detection for CESM, MPI & PPE datasets (IIT Delhi, DST CoE).  
+- 🏙️ **VR-based Urban Safety Framework** – Integrated VR + biometrics + LSTM for threat perception in 360° urban environments (IISER Bhopal).  
 
 ---
 
-✨ *"Transforming data into insights, research into solutions, and ideas into reality—one algorithm at a time."*
+## 💻 Technical Toolbox
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,php,mysql,pytorch,tensorflow,opencv,matlab,docker,firebase,supabase,git,github,vscode&perline=9" />
+</p>
 
-**🤝 Open to collaborations in ML research, data science projects, and full-stack development!**
+---
+
+## 🧠 Projects & Research
+- 📊 [**CTR Prediction**](https://github.com/shaileshkachhi/ctr-prediction) – ML pipeline + SHAP interpretability.  
+- 👥 [**Customer Segmentation**](https://github.com/shaileshkachhi/customer-segmentation) – K-Means/DBSCAN + Power BI dashboards.  
+- 🗳️ [**Election Management System**](https://github.com/shaileshkachhi/election-management) – Dockerized secure full-stack app.  
+- 🚗 [**License Plate Recognition**](https://github.com/shaileshkachhi/license-plate-recognition) – 94% accurate cross-platform CV system.  
+- 💼 [**AI Job Portal**](https://github.com/shaileshkachhi/job-portal) – ML-driven recommendations + demographic analytics.  
+
+<details>
+<summary>📚 More Projects</summary>
+- 🌦️ Climate Data Analysis – Statistical + ML methods on long-term precipitation datasets.  
+- 🚦 Traffic Surveillance – CV model for road classification + vehicle detection from drones.  
+</details>
+
+---
+
+## 🔬 Research Internships
+- 🏢 **IIT Delhi (DST CoE Climate AI)** – Automated ensemble optimization for monsoon prediction.  
+- 🏙️ **IISER Bhopal (GeoAI4Cities Lab)** – VR–biometrics–LSTM framework for urban safety perception.  
+- 🚦 **IIT Mandi** – Traffic surveillance CV system for road/vehicle detection.  
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+
+![Shailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailesh22290&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=shailesh22290&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh22290&layout=compact&theme=radical)  
+
+
+</div>
+
+---
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/shailesh-kachhi](https://www.linkedin.com/in/shailesh-kachhi-681a041a2/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/shailesh22290)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=googlechrome)](https://shailesh22290.github.io)  
+
+---
+✨ *Always exploring how AI can drive climate resilience, urban safety, and real-world impact.*  
