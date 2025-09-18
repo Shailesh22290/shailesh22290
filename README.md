@@ -6,8 +6,8 @@ I'm passionate about transforming complex data into impactful solutions. With **
 
 
 ## 🔭 Current Research & Work
-- 🌦️ **Ensemble Optimization for Climate Prediction** – Developed stopping-point detection for CESM, MPI & PPE datasets (IIT Delhi, DST CoE).  
-- 🏙️ **VR-based Urban Safety Framework** – Integrated VR + biometrics + LSTM for threat perception in 360° urban environments (IISER Bhopal).  
+- 🌦️ **Ensemble Optimization for Climate Prediction** – Working to optimize computational resources in Monsoon  prediction.(IIT Delhi, DST CoE).  
+- 🏙️ **VR-based Urban Safety Framework** – Developing a VR-based research framework to study how people perceive safety in urban environments.(IISER Bhopal).  
 
 ---
 
@@ -54,7 +54,7 @@ I'm passionate about transforming complex data into impactful solutions. With **
 ---
 
 ## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/shailesh-kachhi](https://www.linkedin.com/in/shailesh-kachhi-681a041a2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shailesh-kachhi-681a041a2/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/shailesh22290)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=googlechrome)](https://shailesh22290.github.io)  
 
